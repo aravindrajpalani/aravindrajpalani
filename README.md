@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Aravindraj Palani</h2>
 <h3 align="left">Android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindrajpalani&label=Profile%20views&color=0e75b6&style=flat" alt="aravindrajpalani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindrajpalani&color=0e75b6&style=flat" alt="aravindrajpalani" /> </p>
 
 - 🔭 I’m currently working on **Android app development**
 
